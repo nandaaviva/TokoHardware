@@ -28,7 +28,7 @@
                     </div>
                     <div class="px-3 py-2">
                         <div>
-                        <h4>AMD Ryzen 5 3400G</h4>
+                        <h4>AMD Ryzen 6 3400G</h4>
                         <h4 class="font-medium text-green-500">Rp 2.599.000</h4>
                         <h4>Stock: 10</h4>
                     </div>
